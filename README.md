@@ -1,1 +1,1 @@
-This is ELISENCODE's fist git projet!
+This is ELISENCODE's first git projet!
